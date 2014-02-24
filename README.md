@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## rsacry
 > 这是一个用来加密密码等小数据的小应用。使用rsa算法，会产生一个公钥和私钥。
 > 其中公钥用来加密数据，私钥用来解密数据。
@@ -41,9 +40,4 @@
 * 直接下载脚本
 
 * 用 `git clone https://github.com/zhaozq/rsaencrypt_self_data.git`
-=======
-rsaencrypt_self_data
-====================
 
-a simple app to encrypt one's password with public and private key
->>>>>>> a00ad0d0250319449a8eb4f9381ac81446c32fb8

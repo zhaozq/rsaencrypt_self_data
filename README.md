@@ -32,7 +32,7 @@
 
 * `rsacry.py --genkey`用来产生公钥和私钥
 
-* `rsacry.py --encry origin_data`用来产生加密数据
+* `rsacry.py --encry origin_data`用来产生加密数据,数据需要用`'`括起来
 
 * `rsacry.py --decry encrypted_data`用来还原原始数据
 
